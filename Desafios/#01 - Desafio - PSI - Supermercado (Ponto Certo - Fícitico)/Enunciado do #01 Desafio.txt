@@ -1,0 +1,5 @@
+Nesta pasta você encontrará a Política de Segurança da Informação da "Supermercados Ponto Certo Ltda." (empresa fictícia, criada só para este desafio). 
+
+Baixe o PDF, leia com atenção, identifique os pontos falhos que foram colocados de forma proposital no documento e posteriormente, venha aqui nos comentários destacar tudo aquilo que você encontrou de errado e que ajustes você faria.
+
+OBS: Criei a PSI com apoio do Claude para agilizar a estruturação do documento, mas para você que vai realizar o desafio, minha recomendação é que você tente fazer sem apoio de nenhuma IA, até para explorar bem o seu lado analítico nessa hora.
