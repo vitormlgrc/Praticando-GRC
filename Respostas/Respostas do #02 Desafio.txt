@@ -1,13 +1,12 @@
 Resposta — Desafio GRC #02
 
-
-Resposta esperada:
-
-1. Solicitar → Gestor: R/A. Quem conhece a necessidade do negócio, solicita e responde pelo pedido (ISO/IEC 27001:2022, Controle Organizacional - 5.18 - "Direitos de Acesso").
+1. Solicitar → Gestor: R/A. Quem conhece a necessidade do negócio, solicita e responde pelo pedido 
+(ISO/IEC 27001:2022, Controle Organizacional - 5.18 - "Direitos de Acesso").
 
 2. Aprovar → Dono do sistema: R/A | SI: C. 
 
-O dono decide quem pode acessar o sistema. A SI é consultada em acessos privilegiados e conflitos de segregação de funções (ISO/IEC 27001:2022, Controle Organizacional - 5.3 - "Segregação de Funções" e Controle tecnológico - 8.2 - "Direitos de acessos privilegiados").
+O dono decide quem pode acessar o sistema. A SI é consultada em acessos privilegiados e conflitos de segregação de funções
+(ISO/IEC 27001:2022, Controle Organizacional - 5.3 - "Segregação de Funções" e Controle tecnológico - 8.2 - "Direitos de acessos privilegiados").
 
 3. Provisionar → Dono do sistema: A.
 
@@ -15,12 +14,15 @@ A TI executa, mas é o dono que garante que o acesso concedido foi exatamente o 
 
 4. Modificar → Dono do sistema: A | RH: R.
 
-O RH comunica a mudança de função e o dono aprova o novo perfil, removendo os acessos antigos (ISO/IEC 27001:2022, Controle Organizacional - 6.5 - "Responsabilidades após encerramento ou mudança da contratação").
+O RH comunica a mudança de função e o dono aprova o novo perfil, removendo os acessos antigos
+(ISO/IEC 27001:2022, Controle Organizacional - 6.5 - "Responsabilidades após encerramento ou mudança da contratação").
 
 5. Revisão periódica → Dono do sistema: A | SI: C. 
 
-A SI define a periodicidade e cobra evidências. O dono atesta quem deve continuar com acesso (ISO/IEC 27001:2022, Controle Organizacional - 5.18 - "Direitos de Acesso").
+A SI define a periodicidade e cobra evidências. O dono atesta quem deve continuar com acesso
+(ISO/IEC 27001:2022, Controle Organizacional - 5.18 - "Direitos de Acesso").
 
 6. Revogar → Gestor: A | RH: R.
 
-O RH é o responsável por disparar a revogação, por isso deve avisar no mesmo dia do desligamento (ISO/IEC 27001:2022, Controle Organizacional - 6.5 - "Responsabilidades após encerramento ou mudança da contratação"). 
+O RH é o responsável por disparar a revogação, por isso deve avisar no mesmo dia do desligamento 
+(ISO/IEC 27001:2022, Controle Organizacional - 6.5 - "Responsabilidades após encerramento ou mudança da contratação"). 
