@@ -1,0 +1,5 @@
+A FinTrust, é uma fintech fictícia com 400 colaboradores que está passando por um processo de Auditoria Externa. Um dos pontos de auditoria identificado como não conformidade foi na execução do processo de gestão de acesso. Na amostra avaliada, foram identificados acessos atribuídos de forma errada e ex-funcionários que continuaram com acessos ativos após 60 dias do desligamento.
+
+Como um dos planos de ações e evitar que esses gaps se repitam, a FinTrust começou a ajustar a matriz RACI existente. 
+
+Para ajudar a Fintrust em concluir o plano de ação, como você preencheria a matriz RACI disponível nesta pasta?
