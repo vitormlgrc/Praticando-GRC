@@ -2,13 +2,17 @@ Resposta — Desafio GRC #01
 
 Os pontos falhos encontrados na PSI Fictícia da "Supermercados Ponto Certo Ltda" são o seguintes:
 
-1. Segregação de funções violada: da forma como está descrito a TI solicita, aprova e audita seus próprios acessos (ISO/IEC 27002:2022 - Controle Organizacional - 5.3 - Segregação de funções)
+1. Segregação de funções violada: da forma como está descrito a TI solicita, aprova e audita seus próprios acessos 
+(ISO/IEC 27002:2022 - Controle Organizacional - 5.3 - Segregação de funções)
 
-2. Senha de 4 dígitos para operadores de PDV contradiz a exigência de 12 caracteres + MFA do próprio documento (ISO/IEC 27002:2022 - Controle tecnológico 8.5 - Autenticação Segura)
+2. Senha de 4 dígitos para operadores de PDV contradiz a exigência de 12 caracteres + MFA do próprio documento 
+(ISO/IEC 27002:2022 - Controle tecnológico 8.5 - Autenticação Segura)
 
-3. Wi-Fi de clientes na mesma rede do PDV e do servidor de cartões — ausência de segmentação (ISO/IEC 27002:2022 - Controle tecnológico - 8.22 - Segregação de Redes)
+3. Wi-Fi de clientes na mesma rede do PDV e do servidor de cartões — ausência de segmentação 
+(ISO/IEC 27002:2022 - Controle tecnológico - 8.22 - Segregação de Redes)
 
-4. Backup guardado na mesma sala do servidor principal, sem teste periódico de restauração. (ISO/IEC 27002:2022 - Controle tecnológico - 8.13 - Backup das informações e 8.14 - Redundância dos recursos de tratamento de informações)
+4. Backup guardado na mesma sala do servidor principal, sem teste periódico de restauração.
+(ISO/IEC 27002:2022 - Controle tecnológico - 8.13 - Backup das informações e 8.14 - Redundância dos recursos de tratamento de informações)
 
 5. Confusão entre LGPD e GDPR: a lei brasileira não fixa 72h para notificar a ANPD. A LGPD também exige a comunicação de incidentes de segurança com dados pessoais à ANPD, mas a Resolução CD/ANPD nº 15/2024 consolidou esse prazo em até 3 dias úteis, quando houver obrigação de comunicação, ressalvada regra específica aplicável.
 
