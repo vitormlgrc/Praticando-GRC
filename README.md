@@ -7,7 +7,7 @@ Regularmente desafios com cenários fictícios serão publicados aqui. O objetiv
 
 - Compartilhar conhecimento prático em GRC/SI
 - Engajar a comunidade com conteúdo interativo
-- Servir como material de estudo para iniciantes, intermediários e seniores.
+- Servir como material de estudo para junior, plenos e seniores.
 
 ## 📂 Estrutura
 - `Desafios/` — textos dos desafios publicados
