@@ -11,6 +11,6 @@ Regularmente desafios com cenários fictícios serão publicados aqui. O objetiv
 
 ## 📂 Estrutura
 - `Desafios/` — textos dos desafios publicados
-- `Gabaritos/` — resoluções comentadas
+- `Respostas/` — resoluções comentadas
 
-OBS: Os gabaritos sempre serão fundamentados em normas e frameworks reconhecidos como, por exemplo, **ISO 27001, NIST CSF, LGPD e COBIT**.
+OBS: As respostas serão sempre fundamentadas em normas e frameworks reconhecidos como, por exemplo, **ISO 27001, NIST CSF, LGPD e COBIT**.
